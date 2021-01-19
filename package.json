@@ -1,0 +1,25 @@
+{
+    "name": "employee_database",
+    "version": "1.0.0",
+    "description": "A CLI app that allows a user to create,read,update,and delete data from a msql database.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node employee.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/v-lax/employee_database.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/v-lax/employee_database/issues"
+    },
+    "homepage": "https://github.com/v-lax/employee_database#readme",
+    "dependencies": {
+        "inquirer": "^7.3.3",
+        "mysql": "^2.18.1"
+    }
+}
