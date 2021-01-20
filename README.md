@@ -23,7 +23,7 @@ JavaScript
 • N/A
 
 # INSTRUCTIONS FOR USE
-• Input desired employees and departments
+• Input desired employees with thier respective roles in the appropriate department
   
 # LICENSE
 
