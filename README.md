@@ -32,7 +32,7 @@ JavaScript
 # WALKTHROUGH VIDEO/SCREENSHOT
 • The included image demonstrates the application functionality:
 
-[![Demonstrative Video]()]
+[![Demonstrative Video](Employee-Management-System-Video.gif)]
 
 # QUESTIONS
 • If you have any questions, concerns or suggestions please feel free to contact me with the link below.
